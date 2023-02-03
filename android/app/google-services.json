@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "228103243081",
+    "project_id": "ujiantengahsemester-a89c5",
+    "storage_bucket": "ujiantengahsemester-a89c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228103243081:android:3e6d24799400aea46a4698",
+        "android_client_info": {
+          "package_name": "com.example.uts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228103243081-2t74aesi0899k3sb9qiunb29b5fhnpea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABBadT4-FP_xhqdOnakjZIrOnqtquMhq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228103243081-2t74aesi0899k3sb9qiunb29b5fhnpea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
